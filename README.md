@@ -92,12 +92,4 @@ It cost hundreds of hours, emotional exhaustion, a heavily worn SSD, and countle
 
 The program works. 💎
 
-I never recovered my wallet. But it was precisely that desire — to finish what seemed impossible — that pushed me forward every time I wanted to give up. Maybe it was never really about those Solana. 🌅
-
-🦅 Epilogue
-
-But the best proof that I truly learned — was a different project. All that experience, all those mistakes and refactors, allowed me to write a completely different program from scratch in one month — Liquidation Hunter. 🎯
-
-It mimics the actions of a real person: enters seed phrases on its own, accesses wallets, and automatically scans DeFi protocols in search of airdrops. What would take hours of daily manual routine — the program does itself, in the background, without human involvement. 🤖
-
-A year ago a project like this would have taken months. Now — one month. That is the real result🚀
+I never recovered my wallet. But it was precisely that desire — to finish what seemed impossible — that pushed me forward every time I wanted to give up. 
